@@ -1,0 +1,25 @@
+{
+  "name": "payback-algo",
+  "version": "1.0.0",
+  "description": "Payback-algo is an algorithm designed to help groups of friends share and settle expenses.",
+  "main": "payback.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fewlines-education/payback-algo.git"
+  },
+  "author": "Fewlines",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fewlines-education/payback-algo/issues"
+  },
+  "homepage": "https://github.com/fewlines-education/payback-algo#readme",
+  "dependencies": {
+    "jest": "^22.4.3"
+  }
+}

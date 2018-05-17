@@ -25,7 +25,7 @@ const zipBalances = balances => Object.keys(balances).map(b => [b, balances[b]])
 const computeRefund = (balances, history) => {
   const len = balances.length;
 
-  if (len === 0) {
+  if (len <= 1) {
     return history;
   }
 
