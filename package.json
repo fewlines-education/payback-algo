@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/fewlines-education/payback-algo#readme",
   "dependencies": {
-    "jest": "^22.4.3"
+    "jest": "^23.6.0"
   }
 }
